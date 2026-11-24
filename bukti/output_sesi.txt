@@ -1,0 +1,330 @@
+
+===== SiPus: Perpustakaan Mini =====
+1. Kelola Buku
+2. Kelola Anggota
+3. Tampilkan Daftar Buku
+4. Tampilkan Daftar Anggota
+0. Keluar
+Pilihan: 
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     : Tahun terbit       : Stok               : >> Berhasil: buku BK-001 ditambahkan. (n=1, kapasitas=4)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     : Tahun terbit       : Stok               : >> Berhasil: buku BK-002 ditambahkan. (n=2, kapasitas=4)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     : Tahun terbit       : Stok               : >> Berhasil: buku BK-003 ditambahkan. (n=3, kapasitas=4)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     : Tahun terbit       : Stok               : >> Berhasil: buku BK-004 ditambahkan. (n=4, kapasitas=4)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     : Tahun terbit       : Stok               : >> Berhasil: buku BK-005 ditambahkan. (n=5, kapasitas=8)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) : >> Gagal: kode BK-001 sudah terdaftar.
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Tambah Buku --
+Kode buku (BK-xxx) :   [!] Format salah. Contoh yang benar: BK-001.
+Kode buku (BK-xxx) : Judul              : Penulis            :   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5)     :   [!] Masukkan bilangan bulat 1 s.d. 5.
+Kategori (1-5)     :   [!] Masukkan bilangan bulat 1 s.d. 5.
+Kategori (1-5)     :   [!] Masukkan bilangan bulat 1 s.d. 5.
+Kategori (1-5)     : Tahun terbit       :   [!] Masukkan bilangan bulat 1500 s.d. 2026.
+Tahun terbit       : Stok               :   [!] Masukkan bilangan bulat 0 s.d. 9999.
+Stok               : >> Berhasil: buku BK-006 ditambahkan. (n=6, kapasitas=8)
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+DAFTAR BUKU (6 data, kapasitas 8)
+-----------------------------------------------------------------------------
+No  Kode    Judul                Penulis        Kategori    Tahun Stok Pinjam
+-----------------------------------------------------------------------------
+1   BK-001  Pemrograman C++ Da.. Abdul Kadir    Pemrograman  2021    3      0
+2   BK-002  Struktur Data dan .. Rinaldi Munir  Pemrograman  2020    2      0
+3   BK-003  Sistem Basis Data    Fathansyah     Basis Data   2018    4      0
+4   BK-004  Jaringan Komputer    Andrew S. Ta.. Jaringan     2011    1      0
+5   BK-005  Matematika Diskrit   Rinaldi Munir  Matematika   2016    5      0
+6   BK-006  Kalkulus             Purcell        Matematika   2016    2      0
+-----------------------------------------------------------------------------
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Ubah Buku --
+Kode buku (BK-xxx) : (Tekan Enter untuk mempertahankan nilai lama)
+Judul [Jaringan Komputer]: Penulis [Andrew S. Tanenbaum]:   Kategori: 1=Pemrograman 2=Basis Data 3=Jaringan 4=Matematika 5=Umum
+Kategori (1-5) [3]: Tahun terbit [2011]: Stok [1]: >> Berhasil: data buku BK-004 diperbarui.
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Hapus Buku --
+Kode buku (BK-xxx) : Buku: Sistem Basis Data (Fathansyah)
+Yakin menghapus? (y/t): >> Penghapusan dibatalkan.
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Hapus Buku --
+Kode buku (BK-xxx) : Buku: Sistem Basis Data (Fathansyah)
+Yakin menghapus? (y/t): >> Berhasil: buku BK-003 dihapus.
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+-- Hapus Buku --
+Kode buku (BK-xxx) : >> Gagal: buku BK-099 tidak ditemukan.
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+DAFTAR BUKU (5 data, kapasitas 8)
+-----------------------------------------------------------------------------
+No  Kode    Judul                Penulis        Kategori    Tahun Stok Pinjam
+-----------------------------------------------------------------------------
+1   BK-001  Pemrograman C++ Da.. Abdul Kadir    Pemrograman  2021    3      0
+2   BK-002  Struktur Data dan .. Rinaldi Munir  Pemrograman  2020    2      0
+3   BK-004  Jaringan Komputer    Andrew Tanen.. Umum         2011    3      0
+4   BK-005  Matematika Diskrit   Rinaldi Munir  Matematika   2016    5      0
+5   BK-006  Kalkulus             Purcell        Matematika   2016    2      0
+-----------------------------------------------------------------------------
+
+----- Kelola Buku -----
+1. Tambah Buku
+2. Ubah Buku
+3. Hapus Buku
+4. Tampilkan Buku
+0. Kembali
+Pilihan: 
+===== SiPus: Perpustakaan Mini =====
+1. Kelola Buku
+2. Kelola Anggota
+3. Tampilkan Daftar Buku
+4. Tampilkan Daftar Anggota
+0. Keluar
+Pilihan: 
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): Nama               : Program studi      : >> Berhasil: anggota AG-001 ditambahkan. (n=1, kapasitas=4)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): Nama               : Program studi      : >> Berhasil: anggota AG-002 ditambahkan. (n=2, kapasitas=4)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): Nama               : Program studi      : >> Berhasil: anggota AG-003 ditambahkan. (n=3, kapasitas=4)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): Nama               : Program studi      : >> Berhasil: anggota AG-004 ditambahkan. (n=4, kapasitas=4)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): Nama               : Program studi      : >> Berhasil: anggota AG-005 ditambahkan. (n=5, kapasitas=8)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx): >> Gagal: ID AG-002 sudah terdaftar.
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Tambah Anggota --
+ID anggota (AG-xxx):   [!] Format salah. Contoh yang benar: AG-001.
+ID anggota (AG-xxx): Nama               :   [!] Masukan tidak boleh kosong.
+Nama               : Program studi      : >> Berhasil: anggota AG-006 ditambahkan. (n=6, kapasitas=8)
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+-- Ubah Anggota --
+ID anggota (AG-xxx): (Tekan Enter untuk mempertahankan nilai lama)
+Nama [I Made Wirawan]: Program studi [Teknik Elektro]: >> Berhasil: data anggota AG-003 diperbarui.
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+DAFTAR ANGGOTA (6 data, kapasitas 8)
+-----------------------------------------------------------------------------
+No  ID      Nama                           Program Studi               Pinjam
+-----------------------------------------------------------------------------
+1   AG-001  Ni Nyoman Giri Putri Kasidi .. Teknologi Informasi              0
+2   AG-002  Kadek Puspa Sari Nitisara Sw.. Teknologi Informasi              0
+3   AG-003  I Made Wirawan Putra           Teknik Elektro                   0
+4   AG-004  Luh Ayu Saraswati              Teknik Sipil                     0
+5   AG-005  Komang Adi Putra               Arsitektur                       0
+6   AG-006  Putu Eka                       Teknik Mesin                     0
+-----------------------------------------------------------------------------
+
+----- Kelola Anggota -----
+1. Tambah Anggota
+2. Ubah Anggota
+3. Tampilkan Anggota
+0. Kembali
+Pilihan: 
+===== SiPus: Perpustakaan Mini =====
+1. Kelola Buku
+2. Kelola Anggota
+3. Tampilkan Daftar Buku
+4. Tampilkan Daftar Anggota
+0. Keluar
+Pilihan: 
+DAFTAR BUKU (5 data, kapasitas 8)
+-----------------------------------------------------------------------------
+No  Kode    Judul                Penulis        Kategori    Tahun Stok Pinjam
+-----------------------------------------------------------------------------
+1   BK-001  Pemrograman C++ Da.. Abdul Kadir    Pemrograman  2021    3      0
+2   BK-002  Struktur Data dan .. Rinaldi Munir  Pemrograman  2020    2      0
+3   BK-004  Jaringan Komputer    Andrew Tanen.. Umum         2011    3      0
+4   BK-005  Matematika Diskrit   Rinaldi Munir  Matematika   2016    5      0
+5   BK-006  Kalkulus             Purcell        Matematika   2016    2      0
+-----------------------------------------------------------------------------
+
+===== SiPus: Perpustakaan Mini =====
+1. Kelola Buku
+2. Kelola Anggota
+3. Tampilkan Daftar Buku
+4. Tampilkan Daftar Anggota
+0. Keluar
+Pilihan: 
+DAFTAR ANGGOTA (6 data, kapasitas 8)
+-----------------------------------------------------------------------------
+No  ID      Nama                           Program Studi               Pinjam
+-----------------------------------------------------------------------------
+1   AG-001  Ni Nyoman Giri Putri Kasidi .. Teknologi Informasi              0
+2   AG-002  Kadek Puspa Sari Nitisara Sw.. Teknologi Informasi              0
+3   AG-003  I Made Wirawan Putra           Teknik Elektro                   0
+4   AG-004  Luh Ayu Saraswati              Teknik Sipil                     0
+5   AG-005  Komang Adi Putra               Arsitektur                       0
+6   AG-006  Putu Eka                       Teknik Mesin                     0
+-----------------------------------------------------------------------------
+
+===== SiPus: Perpustakaan Mini =====
+1. Kelola Buku
+2. Kelola Anggota
+3. Tampilkan Daftar Buku
+4. Tampilkan Daftar Anggota
+0. Keluar
+Pilihan:   [!] Masukkan bilangan bulat 0 s.d. 4.
+Pilihan: 
+Terima kasih telah menggunakan SiPus.

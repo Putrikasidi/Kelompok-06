@@ -1,0 +1,28 @@
+--- F1: Kelola Buku ---
+[LULUS] U01 inisialisasi buku: kosong, kapasitas 2
+[LULUS] U02 tambah buku BK-002
+[LULUS] U03 tambah buku ke-3 saat array penuh
+[LULUS] U04 array buku membesar (kapasitas 2 -> 4)
+[LULUS] U05 data lama utuh setelah pembesaran
+[LULUS] U06 kode buku ganda ditolak
+[LULUS] U07 format kode selain BK-xxx ditolak
+[LULUS] U08 judul kosong/kategori/stok/tahun salah ditolak
+[LULUS] U09 cariKode: ditemukan dan nullptr bila tidak ada
+[LULUS] U10 ubah stok melalui pointer cariKode
+[LULUS] U11 ubah data buku BK-001 (kode tetap)
+[LULUS] U12 ubah dengan judul kosong ditolak, data tidak berubah
+[LULUS] U13 ubah buku yang tidak ada ditolak
+[LULUS] U14 hapus BK-002, elemen sesudahnya bergeser
+[LULUS] U15 hapus buku yang tidak ada ditolak
+[LULUS] U16 pembesaran berulang (4 -> 8 -> 16) tanpa kehilangan data
+[LULUS] U17 memori buku dibebaskan
+--- F2: Kelola Anggota ---
+[LULUS] U18 tambah anggota AG-001
+[LULUS] U19 array anggota membesar tanpa kehilangan data
+[LULUS] U20 ID anggota ganda ditolak
+[LULUS] U21 format ID/nama/prodi/sedangPinjam salah ditolak
+[LULUS] U22 ubah data anggota AG-002 (ID tetap)
+[LULUS] U23 ubah anggota yang tidak ada ditolak
+[LULUS] U24 indeksAnggota lewat referensi konstan
+[LULUS] U25 memori anggota dibebaskan
+25 lulus, 0 gagal
